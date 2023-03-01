@@ -75,7 +75,9 @@ public class InnerJoinActivity {
      *                                        |6   |'Jessica Williams' |'Art'      |
      *
      */
+  
 
+     // Please commit
     public Set<Pair<Integer, String>> problem1() {
         /**
          * Problem 1: Write a query that will return the id, and name of each of Ms. Lovelace's students. Notice that
